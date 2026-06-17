@@ -116,7 +116,7 @@ Vì đây là dự án nền tảng, một số hướng mở rộng tự nhiên
 ## 👤 Tác giả
 
 **Võ Huỳnh Đạt**
-📧 vhuyndat@gmail.com
+
 🔗 [github.com/vohuynhdatpy](https://github.com/vohuynhdatpy)
 
 ---
